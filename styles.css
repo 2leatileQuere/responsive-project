@@ -85,8 +85,11 @@ section.secondary {
 }
 
 header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("../images/lisbon.png");
+  background-image: linear-gradient(
+      rgba(242, 227, 227, 0.6),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url("/images/hartbeespoort-dam-tourism-324-jpg-scaled.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
