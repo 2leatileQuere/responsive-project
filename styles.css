@@ -70,7 +70,7 @@ body {
   letter-spacing: 3px;
   text-transform: uppercase;
   padding: 16px;
-  background-color: #462cb3;
+  background-color: #443484;
   text-decoration: none;
 }
 
@@ -188,7 +188,7 @@ footer {
       rgba(39, 32, 68, 0.9),
       rgba(39, 32, 68, 0.9)
     ),
-    url("../images/lisbon-footer.png");
+    url("../images/hartees-footer.png");
 
   background-repeat: no-repeat;
   background-size: cover;
